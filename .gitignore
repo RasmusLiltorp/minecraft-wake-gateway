@@ -1,0 +1,11 @@
+# Build and test output
+/gateway
+/minecraft-wake-gateway
+*.test
+/coverage.out
+/coverage/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
